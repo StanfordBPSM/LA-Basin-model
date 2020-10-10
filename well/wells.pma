@@ -1,0 +1,2844 @@
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali","KaplanAlimiGeochem","VRo"	}
+	NAME	"Wilmington WC 533"
+	CNAME	"none"
+	FILE	"0003"
+	UWI	"23720332"
+	CMT	""
+	SurfaceX	1987024.593583
+	SurfaceY	526571.781703
+	BottomHoleX	1987024.593583
+	BottomHoleY	526571.781703
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem","VRo"	}
+	NAME	"Wilmington WC 107"
+	CNAME	"none"
+	FILE	"0004"
+	UWI	"37043260"
+	CMT	""
+	SurfaceX	1978162.472928
+	SurfaceY	529464.096264
+	BottomHoleX	1978162.472928
+	BottomHoleY	529464.096264
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem","VRo"	}
+	NAME	"Wilmington WD 114"
+	CNAME	"none"
+	FILE	"0005"
+	UWI	"23720811"
+	CMT	""
+	SurfaceX	1985006.392997
+	SurfaceY	526820.844756
+	BottomHoleX	1985006.392997
+	BottomHoleY	526820.844756
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali","KaplanAlimiGeochem"	}
+	NAME	"Huntington X-167"
+	CNAME	"none"
+	FILE	"0006"
+	UWI	"25900119"
+	CMT	""
+	SurfaceX	1998014.816561
+	SurfaceY	519033.933533
+	BottomHoleX	1998014.816561
+	BottomHoleY	519033.933533
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem"	}
+	NAME	"Beta A-51"
+	CNAME	"none"
+	FILE	"0007"
+	UWI	"31220082"
+	CMT	""
+	SurfaceX	1988019.137695
+	SurfaceY	509152.068511
+	BottomHoleX	1988019.137695
+	BottomHoleY	509152.068511
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali","KaplanAlimiGeochem","VRo"	}
+	NAME	"Richfield Stern 16"
+	CNAME	"none"
+	FILE	"0008"
+	UWI	"05921288"
+	CMT	""
+	SurfaceX	2015535.696226
+	SurfaceY	541464.309094
+	BottomHoleX	2015535.696226
+	BottomHoleY	541464.309094
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem"	}
+	NAME	"Richfield Dowling 2"
+	CNAME	"none"
+	FILE	"0009"
+	UWI	"05906272"
+	CMT	""
+	SurfaceX	2013045.827088
+	SurfaceY	540824.664043
+	BottomHoleX	2013045.827088
+	BottomHoleY	540824.664043
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem","VRo"	}
+	NAME	"C-403"
+	CNAME	"none"
+	FILE	"0010"
+	UWI	"23721070"
+	CMT	""
+	SurfaceX	1987125.995971
+	SurfaceY	526517.841857
+	BottomHoleX	1987125.995971
+	BottomHoleY	526517.841857
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem","VRo"	}
+	NAME	"D-605"
+	CNAME	"none"
+	FILE	"0011"
+	UWI	"23720037"
+	CMT	""
+	SurfaceX	1984885.864409
+	SurfaceY	526842.780907
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem"	}
+	NAME	"D-102"
+	CNAME	"none"
+	FILE	"0012"
+	UWI	"23720371"
+	CMT	""
+	SurfaceX	1984995.581131
+	SurfaceY	526839.830443
+	BottomHoleX	1984995.581131
+	BottomHoleY	526839.830443
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","KaplanAlimiGeochem","VRo"	}
+	NAME	"Texas Johnson 2-2"
+	CNAME	"none"
+	FILE	"0013"
+	UWI	"03707248"
+	CMT	""
+	SurfaceX	1965085.640357
+	SurfaceY	545765.708568
+	BottomHoleX	1965085.640357
+	BottomHoleY	545765.708568
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali","KaplanAlimiGeochem","VRo"	}
+	NAME	"Ladera Park I-16"
+	CNAME	"none"
+	FILE	"0014"
+	UWI	"03722012"
+	CMT	""
+	SurfaceX	1966665.893940
+	SurfaceY	554552.306184
+	BottomHoleX	1966665.893940
+	BottomHoleY	554552.306184
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","KaplanAlimiGeochem"	}
+	NAME	"Mobil Brentwood 1"
+	CNAME	"none"
+	FILE	"0015"
+	UWI	"03700501"
+	CMT	""
+	SurfaceX	1955618.456954
+	SurfaceY	560789.310931
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","KaplanAlimiGeochem"	}
+	NAME	"City Lease 135-2"
+	CNAME	"none"
+	FILE	"0016"
+	UWI	"23700496"
+	CMT	""
+	SurfaceX	1955834.643670
+	SurfaceY	554018.690690
+	BottomHoleX	1955834.544000
+	BottomHoleY	554018.805600
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CS-3R"	}
+	NAME	"Chevron Carlin Community 1"
+	CNAME	"none"
+	FILE	"0002"
+	UWI	"03705957"
+	CMT	""
+	SurfaceX	1979792.344000
+	SurfaceY	545916.553000
+	BottomHoleX	1979792.000000
+	BottomHoleY	545916.553000
+	StartElevation	-27.129999
+	TotalDrillDepth	4870.000000
+	TrueVerticalDepth	4870.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CS-3R","KaplanAlimiGeochem","VRo"	}
+	NAME	"American Petrofina Central CH 1"
+	CNAME	"none"
+	FILE	"0001"
+	UWI	"03721520"
+	CMT	""
+	SurfaceX	1977565.737000
+	SurfaceY	548813.120000
+	BottomHoleX	1977566.000000
+	BottomHoleY	548813.000000
+	StartElevation	-36.000000
+	TotalDrillDepth	10000.000000
+	TrueVerticalDepth	10000.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Yorba Linda"
+	CNAME	"none"
+	FILE	"0017"
+	UWI	"Yorba Linda"
+	CMT	""
+	SurfaceX	2017325.051448
+	SurfaceY	544780.776324
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	173.997879
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Wilmington"
+	CNAME	"none"
+	FILE	"0018"
+	UWI	"Wilmington"
+	CMT	""
+	SurfaceX	1976319.949308
+	SurfaceY	531463.820789
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	7.699906
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Whittier (Rideout Heights Area)"
+	CNAME	"none"
+	FILE	"0019"
+	UWI	"Whittier (Rideout Heights Area)"
+	CMT	""
+	SurfaceX	1995112.991021
+	SurfaceY	555492.200266
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	119.398544
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Whittier (La Habra Area)"
+	CNAME	"none"
+	FILE	"0020"
+	UWI	"Whittier (La Habra Area)"
+	CMT	""
+	SurfaceX	2001823.259338
+	SurfaceY	551382.503837
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	188.097717
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Whittier"
+	CNAME	"none"
+	FILE	"0021"
+	UWI	"Whittier"
+	CMT	""
+	SurfaceX	1999354.927978
+	SurfaceY	552632.450842
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	165.897980
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Kraemer, West"
+	CNAME	"none"
+	FILE	"0022"
+	UWI	"Kraemer, West"
+	CMT	""
+	SurfaceX	2019391.100148
+	SurfaceY	540761.633842
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	120.198540
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Coyote, West"
+	CNAME	"none"
+	FILE	"0023"
+	UWI	"Coyote, West"
+	CMT	""
+	SurfaceX	2002973.245963
+	SurfaceY	544959.219350
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	143.698257
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Walnut"
+	CNAME	"none"
+	FILE	"0024"
+	UWI	"Walnut"
+	CMT	""
+	SurfaceX	2007060.326232
+	SurfaceY	557294.326913
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	144.598236
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Venice Beach"
+	CNAME	"none"
+	FILE	"0025"
+	UWI	"Venice Beach"
+	CMT	""
+	SurfaceX	1956409.113641
+	SurfaceY	554119.025669
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	5.299935
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Union Station"
+	CNAME	"none"
+	FILE	"0026"
+	UWI	"Union Station"
+	CMT	""
+	SurfaceX	1978258.238650
+	SurfaceY	560818.484558
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	81.499008
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Turnbull"
+	CNAME	"none"
+	FILE	"0027"
+	UWI	"Turnbull"
+	CMT	""
+	SurfaceX	2001594.884585
+	SurfaceY	555086.185330
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	164.797989
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Torrance (offshore)"
+	CNAME	"none"
+	FILE	"0028"
+	UWI	"Torrance (offshore)"
+	CMT	""
+	SurfaceX	1962345.461839
+	SurfaceY	537699.506971
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Torrance"
+	CNAME	"none"
+	FILE	"0029"
+	UWI	"Torrance"
+	CMT	""
+	SurfaceX	1969911.680794
+	SurfaceY	535411.308449
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	30.399630
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Talbert"
+	CNAME	"none"
+	FILE	"0030"
+	UWI	"Talbert"
+	CMT	""
+	SurfaceX	2003168.138436
+	SurfaceY	520450.356811
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	3.599956
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sunset Beach"
+	CNAME	"none"
+	FILE	"0031"
+	UWI	"Sunset Beach"
+	CMT	""
+	SurfaceX	1995367.814184
+	SurfaceY	524483.147628
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	3.999951
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sherman"
+	CNAME	"none"
+	FILE	"0032"
+	UWI	"Sherman"
+	CMT	""
+	SurfaceX	1964712.305772
+	SurfaceY	564858.885926
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	60.299267
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Seal Beach (South Block Area)"
+	CNAME	"none"
+	FILE	"0033"
+	UWI	"Seal Beach (South Block Area)"
+	CMT	""
+	SurfaceX	1989384.301234
+	SurfaceY	528667.734331
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	1.899977
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Seal Beach (North Block-East Extension Area)"
+	CNAME	"none"
+	FILE	"0034"
+	UWI	"Seal Beach (North Block-East Extension Area)"
+	CMT	""
+	SurfaceX	1992563.504527
+	SurfaceY	526624.727902
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	2.299972
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Seal Beach (North Block Area)"
+	CNAME	"none"
+	FILE	"0035"
+	UWI	"Seal Beach (North Block Area)"
+	CMT	""
+	SurfaceX	1990045.809283
+	SurfaceY	529076.319950
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	1.799978
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sawtelle"
+	CNAME	"none"
+	FILE	"0036"
+	UWI	"Sawtelle"
+	CMT	""
+	SurfaceX	1957934.961034
+	SurfaceY	562077.441146
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	106.398705
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Santa Fe Springs"
+	CNAME	"none"
+	FILE	"0037"
+	UWI	"Santa Fe Springs"
+	CMT	""
+	SurfaceX	1993770.330562
+	SurfaceY	548967.389642
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	44.999454
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sansinena (West Area)"
+	CNAME	"none"
+	FILE	"0038"
+	UWI	"Sansinena (West Area)"
+	CMT	""
+	SurfaceX	2003348.813513
+	SurfaceY	551714.589533
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	263.696808
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sansinena (New England Area)"
+	CNAME	"none"
+	FILE	"0039"
+	UWI	"Sansinena (New England Area)"
+	CMT	""
+	SurfaceX	2002390.766458
+	SurfaceY	552411.334901
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	316.496155
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sansinena (East Area)"
+	CNAME	"none"
+	FILE	"0040"
+	UWI	"Sansinena (East Area)"
+	CMT	""
+	SurfaceX	2005644.021826
+	SurfaceY	550978.061669
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	250.096954
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sansinena (Curtis Area)"
+	CNAME	"none"
+	FILE	"0041"
+	UWI	"Sansinena (Curtis Area)"
+	CMT	""
+	SurfaceX	2003705.915669
+	SurfaceY	551066.933424
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	187.097717
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sansinena (Central Area)"
+	CNAME	"none"
+	FILE	"0042"
+	UWI	"Sansinena (Central Area)"
+	CMT	""
+	SurfaceX	2005376.510448
+	SurfaceY	550851.450187
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	230.897186
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Sansinena (12-G Area)"
+	CNAME	"none"
+	FILE	"0043"
+	UWI	"Sansinena (12-G Area)"
+	CMT	""
+	SurfaceX	2003052.250123
+	SurfaceY	551089.989410
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	198.097595
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"San Vicente"
+	CNAME	"none"
+	FILE	"0044"
+	UWI	"San Vicente"
+	CMT	""
+	SurfaceX	1964098.444363
+	SurfaceY	563613.353035
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	60.499264
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"San Clemente"
+	CNAME	"none"
+	FILE	"0045"
+	UWI	"San Clemente"
+	CMT	""
+	SurfaceX	2037944.505053
+	SurfaceY	497057.619751
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	133.898376
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Salt Lake, South"
+	CNAME	"none"
+	FILE	"0046"
+	UWI	"Salt Lake, South"
+	CMT	""
+	SurfaceX	1966926.943253
+	SurfaceY	562054.351327
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	51.999367
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali"	}
+	NAME	"Salt Lake"
+	CNAME	"none"
+	FILE	"0047"
+	UWI	"Salt Lake"
+	CMT	""
+	SurfaceX	1967601.259913
+	SurfaceY	563589.369238
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	64.899208
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Rowland"
+	CNAME	"none"
+	FILE	"0048"
+	UWI	"Rowland"
+	CMT	""
+	SurfaceX	2009189.946458
+	SurfaceY	555424.477058
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	134.698364
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Rosecrans, South"
+	CNAME	"none"
+	FILE	"0049"
+	UWI	"Rosecrans, South"
+	CMT	""
+	SurfaceX	1974475.117742
+	SurfaceY	543670.445093
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	21.299742
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Rosecrans"
+	CNAME	"none"
+	FILE	"0050"
+	UWI	"Rosecrans"
+	CMT	""
+	SurfaceX	1973661.330698
+	SurfaceY	546302.728373
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	52.599361
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Prado-Corona (Sardco Area)"
+	CNAME	"none"
+	FILE	"0051"
+	UWI	"Prado-Corona (Sardco Area)"
+	CMT	""
+	SurfaceX	2033696.249592
+	SurfaceY	545476.832539
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	148.598190
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Prado-Corona (Goedhart Area)"
+	CNAME	"none"
+	FILE	"0052"
+	UWI	"Prado-Corona (Goedhart Area)"
+	CMT	""
+	SurfaceX	2035778.324981
+	SurfaceY	543040.942567
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	177.797836
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Potrero (Inglewood City Area)"
+	CNAME	"none"
+	FILE	"0053"
+	UWI	"Potrero (Inglewood City Area)"
+	CMT	""
+	SurfaceX	1967945.243172
+	SurfaceY	551457.576382
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	41.999489
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Potrero (East Area)"
+	CNAME	"none"
+	FILE	"0054"
+	UWI	"Potrero (East Area)"
+	CMT	""
+	SurfaceX	1969272.903204
+	SurfaceY	550382.675102
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	47.999416
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Playa del Ray"
+	CNAME	"none"
+	FILE	"0055"
+	UWI	"Playa del Ray"
+	CMT	""
+	SurfaceX	1957535.942477
+	SurfaceY	552381.168235
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	3.699955
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Olive"
+	CNAME	"none"
+	FILE	"0056"
+	UWI	"Olive"
+	CMT	""
+	SurfaceX	2012540.368104
+	SurfaceY	538119.852384
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	65.099205
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Whittier Heights, North"
+	CNAME	"none"
+	FILE	"0057"
+	UWI	"Whittier Heights, North"
+	CMT	""
+	SurfaceX	2000179.824677
+	SurfaceY	556579.072565
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	166.097977
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali"	}
+	NAME	"Newport, West (Onshore Area)"
+	CNAME	"none"
+	FILE	"0058"
+	UWI	"Newport, West (Onshore Area)"
+	CMT	""
+	SurfaceX	2004717.776688
+	SurfaceY	515387.180755
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	1.799978
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Newport (Mesa Area)"
+	CNAME	"none"
+	FILE	"0059"
+	UWI	"Newport (Mesa Area)"
+	CMT	""
+	SurfaceX	2006747.520355
+	SurfaceY	515129.967655
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	24.399704
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Newport(Cagney Area)"
+	CNAME	"none"
+	FILE	"0060"
+	UWI	"Newport(Cagney Area)"
+	CMT	""
+	SurfaceX	2006120.755238
+	SurfaceY	513704.111122
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	20.999744
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Newport (Beach Area)"
+	CNAME	"none"
+	FILE	"0061"
+	UWI	"Newport (Beach Area)"
+	CMT	""
+	SurfaceX	2006423.167130
+	SurfaceY	513202.919642
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	1.799978
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Newgate"
+	CNAME	"none"
+	FILE	"0062"
+	UWI	"Newgate"
+	CMT	""
+	SurfaceX	1996761.905071
+	SurfaceY	547868.833445
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	50.599384
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Kraemer NE"
+	CNAME	"none"
+	FILE	"0063"
+	UWI	"Kraemer NE"
+	CMT	""
+	SurfaceX	2021906.499334
+	SurfaceY	542681.775086
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	149.298187
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Montebello"
+	CNAME	"none"
+	FILE	"0064"
+	UWI	"Montebello"
+	CMT	""
+	SurfaceX	1990046.540803
+	SurfaceY	558027.508682
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	102.898750
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Mahala (Prado Dam Area)"
+	CNAME	"none"
+	FILE	"0065"
+	UWI	"Mahala (Prado Dam Area)"
+	CMT	""
+	SurfaceX	2032810.085959
+	SurfaceY	544549.661419
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	148.598190
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Mahala (West Area)"
+	CNAME	"none"
+	FILE	"0066"
+	UWI	"Mahala (West Area)"
+	CMT	""
+	SurfaceX	2029484.534165
+	SurfaceY	545625.577378
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	309.896240
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali"	}
+	NAME	"Mahala (Mahala Area)"
+	CNAME	"none"
+	FILE	"0067"
+	UWI	"Mahala (Mahala Area)"
+	CMT	""
+	SurfaceX	2033014.193450
+	SurfaceY	544792.199314
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	148.598190
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Mahala (Abacherli Area)"
+	CNAME	"none"
+	FILE	"0068"
+	UWI	"Mahala (Abacherli Area)"
+	CMT	""
+	SurfaceX	2030382.299400
+	SurfaceY	547174.752943
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	254.496902
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Los Angeles Downtown"
+	CNAME	"none"
+	FILE	"0069"
+	UWI	"Los Angeles Downtown"
+	CMT	""
+	SurfaceX	1975669.731965
+	SurfaceY	559775.576002
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	72.899117
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Los Angeles City"
+	CNAME	"none"
+	FILE	"0070"
+	UWI	"Los Angeles City"
+	CMT	""
+	SurfaceX	1975829.901926
+	SurfaceY	562594.821163
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	120.298538
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Long Beach Airport"
+	CNAME	"none"
+	FILE	"0071"
+	UWI	"Long Beach Airport"
+	CMT	""
+	SurfaceX	1984621.595798
+	SurfaceY	535161.296554
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	17.499786
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Long Beach, Recreation Park Area"
+	CNAME	"none"
+	FILE	"0072"
+	UWI	"Long Beach, Recreation Park Area"
+	CMT	""
+	SurfaceX	1987778.798933
+	SurfaceY	530623.102531
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	9.499885
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Long Beach, Old Area"
+	CNAME	"none"
+	FILE	"0073"
+	UWI	"Long Beach, Old Area"
+	CMT	""
+	SurfaceX	1983927.730486
+	SurfaceY	534026.595953
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	41.599495
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Long Beach, NW Extension"
+	CNAME	"none"
+	FILE	"0074"
+	UWI	"Long Beach, NW Extension"
+	CMT	""
+	SurfaceX	1981133.213443
+	SurfaceY	536550.947724
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	9.899879
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Leffingwell"
+	CNAME	"none"
+	FILE	"0075"
+	UWI	"Leffingwell"
+	CMT	""
+	SurfaceX	2000185.466830
+	SurfaceY	547148.378599
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	73.299110
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Lawndale"
+	CNAME	"none"
+	FILE	"0076"
+	UWI	"Lawndale"
+	CMT	""
+	SurfaceX	1966516.603510
+	SurfaceY	544654.083766
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	22.999720
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Las Cienegas (Pacific Electric)"
+	CNAME	"none"
+	FILE	"0077"
+	UWI	"Las Cienegas (Pacific Electric)"
+	CMT	""
+	SurfaceX	1968471.690379
+	SurfaceY	560814.399019
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	41.399498
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Las Cienegas (Murphy)"
+	CNAME	"none"
+	FILE	"0078"
+	UWI	"Las Cienegas (Murphy)"
+	CMT	""
+	SurfaceX	1971104.813993
+	SurfaceY	559084.299355
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	63.099232
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Las Cienegas (Jefferson)"
+	CNAME	"none"
+	FILE	"0079"
+	UWI	"Las Cienegas (Jefferson)"
+	CMT	""
+	SurfaceX	1972590.305561
+	SurfaceY	558409.818408
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	53.099354
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Las Cienegas (Good Shepherd)"
+	CNAME	"none"
+	FILE	"0080"
+	UWI	"Las Cienegas (Good Shepherd)"
+	CMT	""
+	SurfaceX	1970377.678846
+	SurfaceY	559904.095836
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	62.099243
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Las Cienegas (4th Ave)"
+	CNAME	"none"
+	FILE	"0081"
+	UWI	"Las Cienegas (4th Ave)"
+	CMT	""
+	SurfaceX	1970359.963870
+	SurfaceY	559879.749326
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	62.099243
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Lapworth"
+	CNAME	"none"
+	FILE	"0082"
+	UWI	"Lapworth"
+	CMT	""
+	SurfaceX	1996149.218971
+	SurfaceY	557812.220822
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	70.499146
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"La Mirada"
+	CNAME	"none"
+	FILE	"0083"
+	UWI	"La Mirada"
+	CMT	""
+	SurfaceX	1997811.155906
+	SurfaceY	543562.467864
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	25.599689
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Kraemer"
+	CNAME	"none"
+	FILE	"0084"
+	UWI	"Kraemer"
+	CMT	""
+	SurfaceX	2020630.274606
+	SurfaceY	541184.704166
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	144.098251
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Hyperion"
+	CNAME	"none"
+	FILE	"0085"
+	UWI	"Hyperion"
+	CMT	""
+	SurfaceX	1960460.186971
+	SurfaceY	548331.724975
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	32.599602
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Howard Townsite"
+	CNAME	"none"
+	FILE	"0086"
+	UWI	"Howard Townsite"
+	CMT	""
+	SurfaceX	1971860.063587
+	SurfaceY	547189.853040
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	60.399265
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Gaffey"
+	CNAME	"none"
+	FILE	"0087"
+	UWI	"Gaffey"
+	CMT	""
+	SurfaceX	1969986.277850
+	SurfaceY	531180.363190
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	108.198685
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Esperanza"
+	CNAME	"none"
+	FILE	"0088"
+	UWI	"Esperanza"
+	CMT	""
+	SurfaceX	2022323.443483
+	SurfaceY	543919.572458
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	209.997452
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Rosecrans, East"
+	CNAME	"none"
+	FILE	"0089"
+	UWI	"Rosecrans, East"
+	CMT	""
+	SurfaceX	1975569.304327
+	SurfaceY	544185.522650
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	31.599615
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Los Angeles, East"
+	CNAME	"none"
+	FILE	"0090"
+	UWI	"Los Angeles, East"
+	CMT	""
+	SurfaceX	1986799.210138
+	SurfaceY	555848.592238
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	49.099403
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Coyote, East"
+	CNAME	"none"
+	FILE	"0091"
+	UWI	"Coyote, East"
+	CMT	""
+	SurfaceX	2009607.327691
+	SurfaceY	544270.436578
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	114.098610
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Dominguez"
+	CNAME	"none"
+	FILE	"0092"
+	UWI	"Dominguez"
+	CMT	""
+	SurfaceX	1977246.827515
+	SurfaceY	540999.956047
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	49.199402
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Cristianitos Creek"
+	CNAME	"none"
+	FILE	"0093"
+	UWI	"Cristianitos Creek"
+	CMT	""
+	SurfaceX	2038359.492082
+	SurfaceY	493030.236086
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	248.496979
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Chino-Soquel"
+	CNAME	"none"
+	FILE	"0094"
+	UWI	"Chino-Soquel"
+	CMT	""
+	SurfaceX	2023919.967595
+	SurfaceY	549790.314286
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	386.595306
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Cheviot Hills"
+	CNAME	"none"
+	FILE	"0095"
+	UWI	"Cheviot Hills"
+	CMT	""
+	SurfaceX	1962090.849598
+	SurfaceY	561298.598813
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	86.198952
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Brea-Olinda"
+	CNAME	"none"
+	FILE	"0096"
+	UWI	"Brea-Olinda"
+	CMT	""
+	SurfaceX	2011370.811185
+	SurfaceY	548475.328142
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	145.698227
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Boyle Heights"
+	CNAME	"none"
+	FILE	"0097"
+	UWI	"Boyle Heights"
+	CMT	""
+	SurfaceX	1981329.517140
+	SurfaceY	559866.624943
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	90.098907
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Beverly Hills West"
+	CNAME	"none"
+	FILE	"0098"
+	UWI	"Beverly Hills West"
+	CMT	""
+	SurfaceX	1960942.779859
+	SurfaceY	562185.423862
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	85.198967
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","CompactCali"	}
+	NAME	"Beverly Hills East"
+	CNAME	"none"
+	FILE	"0099"
+	UWI	"Beverly Hills East"
+	CMT	""
+	SurfaceX	1966486.137835
+	SurfaceY	561218.017618
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	43.999466
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","CompactCali"	}
+	NAME	"Belmont Offshore (Surfside)"
+	CNAME	"none"
+	FILE	"0100"
+	UWI	"Belmont Offshore (Surfside)"
+	CMT	""
+	SurfaceX	1989425.014894
+	SurfaceY	524292.875314
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Belmont Offshore (Old)"
+	CNAME	"none"
+	FILE	"0101"
+	UWI	"Belmont Offshore (Old)"
+	CMT	""
+	SurfaceX	1988342.985257
+	SurfaceY	524667.322114
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Belmont Offshore"
+	CNAME	"none"
+	FILE	"0102"
+	UWI	"Belmont Offshore"
+	CMT	""
+	SurfaceX	1989378.765761
+	SurfaceY	524297.808806
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT","TempCali","CompactCali"	}
+	NAME	"Bandini"
+	CNAME	"none"
+	FILE	"0103"
+	UWI	"Bandini"
+	CMT	""
+	SurfaceX	1984409.077656
+	SurfaceY	555718.079316
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	45.999439
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Anaheim"
+	CNAME	"none"
+	FILE	"0104"
+	UWI	"Anaheim"
+	CMT	""
+	SurfaceX	2008216.303702
+	SurfaceY	535016.455594
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	44.999454
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","DTASHT"	}
+	NAME	"Alondra"
+	CNAME	"none"
+	FILE	"0105"
+	UWI	"Alondra"
+	CMT	""
+	SurfaceX	1968876.985073
+	SurfaceY	543529.650353
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	12.399849
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"Newport Beach C"
+	CNAME	"none"
+	FILE	"0106"
+	UWI	"Newport Beach C"
+	CMT	""
+	SurfaceX	2004979.276800
+	SurfaceY	513977.534400
+	BottomHoleX	2004979.276800
+	BottomHoleY	513977.534400
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"B-20"
+	CNAME	"none"
+	FILE	"0107"
+	UWI	"B-20"
+	CMT	""
+	SurfaceX	1986850.992000
+	SurfaceY	510624.124800
+	BottomHoleX	1986850.992000
+	BottomHoleY	510624.124800
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"HB A001"
+	CNAME	"none"
+	FILE	"0108"
+	UWI	"HB A001"
+	CMT	""
+	SurfaceX	1995840.458400
+	SurfaceY	518048.138400
+	BottomHoleX	1995840.458400
+	BottomHoleY	518048.138400
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"N. Bolsa"
+	CNAME	"none"
+	FILE	"0109"
+	UWI	"N. Bolsa"
+	CMT	""
+	SurfaceX	1997789.349600
+	SurfaceY	522484.502400
+	BottomHoleX	1997789.349600
+	BottomHoleY	522484.502400
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"C-236"
+	CNAME	"none"
+	FILE	"0110"
+	UWI	"C-236"
+	CMT	""
+	SurfaceX	1987179.261600
+	SurfaceY	526575.223200
+	BottomHoleX	1987179.261600
+	BottomHoleY	526575.223200
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"C-348"
+	CNAME	"none"
+	FILE	"0111"
+	UWI	"C-348"
+	CMT	""
+	SurfaceX	1987142.380800
+	SurfaceY	526552.972800
+	BottomHoleX	1987142.380800
+	BottomHoleY	526552.972800
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"A-59"
+	CNAME	"none"
+	FILE	"0112"
+	UWI	"A-59"
+	CMT	""
+	SurfaceX	1983097.989600
+	SurfaceY	534690.218400
+	BottomHoleX	1983097.989600
+	BottomHoleY	534690.218400
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"ALA-49A"
+	CNAME	"none"
+	FILE	"0113"
+	UWI	"ALA-49A"
+	CMT	""
+	SurfaceX	1985475.124800
+	SurfaceY	533211.024000
+	BottomHoleX	1985475.124800
+	BottomHoleY	533211.024000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"D-81"
+	CNAME	"none"
+	FILE	"0114"
+	UWI	"D-81"
+	CMT	""
+	SurfaceX	1984226.359200
+	SurfaceY	533923.036800
+	BottomHoleX	1984226.359200
+	BottomHoleY	533923.036800
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"23-25"
+	CNAME	"none"
+	FILE	"0115"
+	UWI	"23-25"
+	CMT	""
+	SurfaceX	1984716.477600
+	SurfaceY	533522.834400
+	BottomHoleX	1984716.477600
+	BottomHoleY	533522.834400
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"B-14"
+	CNAME	"none"
+	FILE	"0116"
+	UWI	"B-14"
+	CMT	""
+	SurfaceX	1983310.740000
+	SurfaceY	534545.743200
+	BottomHoleX	1983310.740000
+	BottomHoleY	534545.743200
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"C-37"
+	CNAME	"none"
+	FILE	"0117"
+	UWI	"C-37"
+	CMT	""
+	SurfaceX	1984171.495200
+	SurfaceY	534400.048800
+	BottomHoleX	1984171.495200
+	BottomHoleY	534400.048800
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"LBA-1"
+	CNAME	"none"
+	FILE	"0118"
+	UWI	"LBA-1"
+	CMT	""
+	SurfaceX	1984580.536800
+	SurfaceY	535342.185600
+	BottomHoleX	1984580.536800
+	BottomHoleY	535342.185600
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"Dominguez #1&2"
+	CNAME	"none"
+	FILE	"0119"
+	UWI	"Dominguez #1&2"
+	CMT	""
+	SurfaceX	1977491.193600
+	SurfaceY	540348.220800
+	BottomHoleX	1977491.193600
+	BottomHoleY	540348.220800
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"VIC-1-935/VIC-1-845"
+	CNAME	"none"
+	FILE	"0120"
+	UWI	"VIC-1-935/VIC-1-845"
+	CMT	""
+	SurfaceX	1965215.373600
+	SurfaceY	556159.416000
+	BottomHoleX	1965215.373600
+	BottomHoleY	556159.416000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"Santa Fe Springs C"
+	CNAME	"none"
+	FILE	"0121"
+	UWI	"Santa Fe Springs C"
+	CMT	""
+	SurfaceX	1993783.363200
+	SurfaceY	549130.423200
+	BottomHoleX	1993783.363200
+	BottomHoleY	549130.423200
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"4H-53"
+	CNAME	"none"
+	FILE	"0122"
+	UWI	"4H-53"
+	CMT	""
+	SurfaceX	2003230.944000
+	SurfaceY	551325.288000
+	BottomHoleX	2003230.944000
+	BottomHoleY	551325.288000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"12A-5"
+	CNAME	"none"
+	FILE	"0123"
+	UWI	"12A-5"
+	CMT	""
+	SurfaceX	2002953.880800
+	SurfaceY	550692.828000
+	BottomHoleX	2002953.880800
+	BottomHoleY	550692.828000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"WP11RD2"
+	CNAME	"none"
+	FILE	"0124"
+	UWI	"WP11RD2"
+	CMT	""
+	SurfaceX	1963943.748000
+	SurfaceY	561699.460800
+	BottomHoleX	1963943.748000
+	BottomHoleY	561699.460800
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Boles2015"	}
+	NAME	"OF15-RD1"
+	CNAME	"none"
+	FILE	"0125"
+	UWI	"OF15-RD1"
+	CMT	""
+	SurfaceX	1957833.422400
+	SurfaceY	562057.905600
+	BottomHoleX	1957833.422400
+	BottomHoleY	562057.905600
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"LB1"
+	CNAME	"none"
+	FILE	"0126"
+	UWI	"LB1"
+	CMT	""
+	SurfaceX	1997294.827754
+	SurfaceY	543338.537095
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"AC1"
+	CNAME	"none"
+	FILE	"0127"
+	UWI	"AC1"
+	CMT	""
+	SurfaceX	2034495.030113
+	SurfaceY	549891.223507
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"GRY3"
+	CNAME	"none"
+	FILE	"0128"
+	UWI	"GRY3"
+	CMT	""
+	SurfaceX	1978075.900889
+	SurfaceY	449858.757583
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"ANI1"
+	CNAME	"none"
+	FILE	"0129"
+	UWI	"ANI1"
+	CMT	""
+	SurfaceX	1993928.447695
+	SurfaceY	558769.561351
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"W724"
+	CNAME	"none"
+	FILE	"0130"
+	UWI	"W724"
+	CMT	""
+	SurfaceX	1994504.335596
+	SurfaceY	548730.659712
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"UB07"
+	CNAME	"none"
+	FILE	"0131"
+	UWI	"UB07"
+	CMT	""
+	SurfaceX	2014633.430009
+	SurfaceY	541441.769743
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"AP10"
+	CNAME	"none"
+	FILE	"0132"
+	UWI	"AP10"
+	CMT	""
+	SurfaceX	2007973.239418
+	SurfaceY	550351.943338
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"UPU9"
+	CNAME	"none"
+	FILE	"0133"
+	UWI	"UPU9"
+	CMT	""
+	SurfaceX	1986813.191314
+	SurfaceY	555870.756989
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"SR22"
+	CNAME	"none"
+	FILE	"0134"
+	UWI	"SR22"
+	CMT	""
+	SurfaceX	2007692.086106
+	SurfaceY	543829.395245
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"BX65"
+	CNAME	"none"
+	FILE	"0135"
+	UWI	"BX65"
+	CMT	""
+	SurfaceX	1989610.144927
+	SurfaceY	529045.736623
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"RD66"
+	CNAME	"none"
+	FILE	"0136"
+	UWI	"RD66"
+	CMT	""
+	SurfaceX	1984422.742145
+	SurfaceY	535120.585027
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"CD76"
+	CNAME	"none"
+	FILE	"0137"
+	UWI	"CD76"
+	CMT	""
+	SurfaceX	1975522.088064
+	SurfaceY	541040.939760
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"RCB2"
+	CNAME	"none"
+	FILE	"0138"
+	UWI	"RCB2"
+	CMT	""
+	SurfaceX	1973866.266331
+	SurfaceY	544495.194574
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"MAC6"
+	CNAME	"none"
+	FILE	"0139"
+	UWI	"MAC6"
+	CMT	""
+	SurfaceX	1964276.673115
+	SurfaceY	557083.705846
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"ING1"
+	CNAME	"none"
+	FILE	"0140"
+	UWI	"ING1"
+	CMT	""
+	SurfaceX	1966845.633586
+	SurfaceY	552204.625637
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"X056"
+	CNAME	"none"
+	FILE	"0141"
+	UWI	"X056"
+	CMT	""
+	SurfaceX	1979946.383508
+	SurfaceY	528795.305933
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"ST15"
+	CNAME	"none"
+	FILE	"0142"
+	UWI	"ST15"
+	CMT	""
+	SurfaceX	1973519.383205
+	SurfaceY	533104.189466
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","WilliamsHF"	}
+	NAME	"DR10"
+	CNAME	"none"
+	FILE	"0143"
+	UWI	"DR10"
+	CMT	""
+	SurfaceX	1958435.191783
+	SurfaceY	552138.614186
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","TempCali","Boles2015"	}
+	NAME	"BolesComp"
+	CNAME	"none"
+	FILE	"0144"
+	UWI	"D-81_1"
+	CMT	""
+	SurfaceX	1984226.359200
+	SurfaceY	533923.036800
+	BottomHoleX	1984226.359200
+	BottomHoleY	533923.036800
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","TempCali"	}
+	NAME	"LBComp"
+	CNAME	"none"
+	FILE	"0145"
+	UWI	"Long Beach, Old Area_1"
+	CMT	""
+	SurfaceX	1983927.730486
+	SurfaceY	534026.595953
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	41.599495
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Virginia Country Club 1"
+	CNAME	"none"
+	FILE	"0146"
+	UWI	"03705737"
+	CMT	""
+	SurfaceX	1981449.415706
+	SurfaceY	537650.575598
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"King Vidor 18"
+	CNAME	"none"
+	FILE	"0147"
+	UWI	"03714074"
+	CMT	""
+	SurfaceX	1958575.654596
+	SurfaceY	551243.714681
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Union Townsite 2"
+	CNAME	"none"
+	FILE	"0148"
+	UWI	"03714048"
+	CMT	""
+	SurfaceX	1957937.967581
+	SurfaceY	552158.267386
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Texam 1"
+	CNAME	"none"
+	FILE	"0149"
+	UWI	"03706125"
+	CMT	""
+	SurfaceX	1959935.638668
+	SurfaceY	556167.330742
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Texaco Inglewood Ext. 1"
+	CNAME	"none"
+	FILE	"0150"
+	UWI	"03706088"
+	CMT	""
+	SurfaceX	1959484.260653
+	SurfaceY	550614.316702
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Anderson Spring 1"
+	CNAME	"none"
+	FILE	"0151"
+	UWI	"03706065"
+	CMT	""
+	SurfaceX	1957890.297166
+	SurfaceY	556055.251210
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Inglewood Ext. 1"
+	CNAME	"none"
+	FILE	"0152"
+	UWI	"03706051"
+	CMT	""
+	SurfaceX	1962055.387337
+	SurfaceY	552593.663518
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker"	}
+	NAME	"Packard P-55"
+	CNAME	"none"
+	FILE	"0153"
+	UWI	"03720896"
+	CMT	""
+	SurfaceX	1966510.793717
+	SurfaceY	561167.902097
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Culver City EH 1"
+	CNAME	"none"
+	FILE	"0154"
+	UWI	"03720078"
+	CMT	""
+	SurfaceX	1961639.642880
+	SurfaceY	556471.831733
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Six Companies 1"
+	CNAME	"none"
+	FILE	"0155"
+	UWI	"03707454"
+	CMT	""
+	SurfaceX	1960589.305433
+	SurfaceY	548757.126715
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Big Ben 1"
+	CNAME	"none"
+	FILE	"0156"
+	UWI	"03713993"
+	CMT	""
+	SurfaceX	1959802.504771
+	SurfaceY	551509.203101
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Ohio Fish 1"
+	CNAME	"none"
+	FILE	"0157"
+	UWI	"03705615"
+	CMT	""
+	SurfaceX	1970110.252812
+	SurfaceY	540849.547306
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Walker","VRo"	}
+	NAME	"Standard Inglewood Cemetary 1"
+	CNAME	"none"
+	FILE	"0158"
+	UWI	"03721196"
+	CMT	""
+	SurfaceX	1968609.251191
+	SurfaceY	552639.199723
+	BottomHoleX	99999.000000
+	BottomHoleY	99999.000000
+	StartElevation	0.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}

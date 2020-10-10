@@ -1,0 +1,14 @@
+c
+c Physical Unit Groups
+c
+Head   | ID  |       Group       | Display Unit | Import/Export |
+Key    | ID  |       Name        |    IDDef     |    IDData     |
+Stop-------------------------------------------------------------
+Format | %3d |        %s         |     %3d      |      %3d      |
+Flag   |  0  |         0         |      0       |       0       |
+c----------------------------------------------------------------
+Data   |   2 | Depth             |           10 |            12 |
+Data   |  32 | Distance          |           17 |            17 |
+Data   |  26 | GOR               |          116 |           116 |
+Data   |   9 | Pressure          |           53 |            53 |
+Data   |  55 | Pressure Gradient |          154 |           154 |
