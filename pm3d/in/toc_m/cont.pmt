@@ -1,0 +1,10 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |    Name    |
+Key    |  ID  | Level | NameInTree |
+Stop--------------------------------
+Format | %4d  |  %2d  |     %s     |
+Flag   |  0   |   0   |     0      |
+c-----------------------------------
+Data   |    1 |     1 | krigtoc    |

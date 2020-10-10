@@ -1,0 +1,22 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |     Name      |
+Key    |  ID  | Level |  NameInTree   |
+Stop-----------------------------------
+Format | %4d  |  %2d  |      %s       |
+Flag   |  0   |   0   |       0       |
+c--------------------------------------
+Data   |   27 |     1 | socalcrmdepth |
+Data   |   26 |     1 | pico4         |
+Data   |   25 |     1 | rep7          |
+Data   |   53 |     1 | del9          |
+Data   |   52 |     1 | mohn9         |
+Data   |   51 |     1 | nodsh9        |
+Data   |   50 |     1 | mmio8         |
+Data   |   49 |     1 | lmio8         |
+Data   |   48 |     1 | olig8         |
+Data   |   47 |     1 | eo9           |
+Data   |   46 |     1 | paleo9        |
+Data   |   45 |     1 | cret6         |
+Data   |   15 |     1 | cvmhlowres2   |

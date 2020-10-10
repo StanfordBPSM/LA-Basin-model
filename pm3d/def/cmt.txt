@@ -1,0 +1,1 @@
+Copied from spring16d (aka compaction calibration completed) for temperature calibration with spatial varying HF maps, removed schist event, increase 30-200 HF to 42, remove 5Ma HF map, adding timesteps.  Flowpath

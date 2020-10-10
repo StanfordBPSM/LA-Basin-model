@@ -1,0 +1,11 @@
+c
+c Water Depth Trend Groups
+c
+Head   | ID  | Assigned |    Name     |
+Key    | ID  | Assigned |    Name     |
+Stop-----------------------------------
+Format | %3d |   %1d    |     %s      |
+Flag   |  0  |    0     |      0      |
+c--------------------------------------
+Data   |   2 |       -1 | TestCase    |
+Data   |   3 |       -1 | PWD_Trend_3 |

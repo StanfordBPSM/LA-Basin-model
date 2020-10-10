@@ -1,0 +1,10 @@
+c
+c Paleo Tectonic (TecLink Sections)
+c
+Head   | ID  |    Name     |  Age   |
+Key    | ID  |    Name     |  Age   |
+Stop---------------------------------
+Format | %3d |     %s      | %6.4f  |
+Flag   |  2  |      0      |   0    |
+c------------------------------------
+Data   |   1 | Present Day | 0.0000 |

@@ -1,0 +1,21 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |            Name             |
+Key    |  ID  | Level |         NameInTree          |
+Stop-------------------------------------------------
+Format | %4d  |  %2d  |             %s              |
+Flag   |  0   |   0   |              0              |
+c----------------------------------------------------
+Data   |   13 |     1 | pleisto                     |
+Data   |   18 |     1 | nodshale                    |
+Data   |   19 |     1 | mmio                        |
+Data   |   20 |     1 | lmio                        |
+Data   |   21 |     1 | olig                        |
+Data   |   22 |     1 | eocene                      |
+Data   |   23 |     1 | paleocene                   |
+Data   |   24 |     1 | cretaceous                  |
+Data   |   32 |     1 | mohnfacies_Converted_32     |
+Data   |   35 |     1 | delfaciesrast3_Converted_35 |
+Data   |   40 |     1 | picofacies_repcopy          |
+Data   |   43 |     1 | repfacies_picocopy          |

@@ -1,0 +1,21 @@
+c
+c Facies Assignment
+c
+Head   | (Sub)Layer | Sublayer Index | Facies Map  |
+Key    |  LayerID   | SublayerIndex  | FaciesMapID |
+Stop------------------------------------------------
+Format |    %4d     |      %3d       |     %4d     |
+Flag   |     0      |       0        |      0      |
+c---------------------------------------------------
+Data   |         37 |              0 |          13 |
+Data   |         38 |              0 |          40 |
+Data   |         39 |              0 |          43 |
+Data   |         40 |              0 |          35 |
+Data   |         41 |              0 |          32 |
+Data   |         42 |              0 |          18 |
+Data   |         43 |              0 |          19 |
+Data   |         44 |              0 |          20 |
+Data   |         45 |              0 |          21 |
+Data   |         46 |              0 |          22 |
+Data   |         47 |              0 |          23 |
+Data   |         48 |              0 |          24 |

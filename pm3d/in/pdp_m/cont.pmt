@@ -1,0 +1,22 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |           Name           |
+Key    |  ID  | Level |        NameInTree        |
+Stop----------------------------------------------
+Format | %4d  |  %2d  |            %s            |
+Flag   |  0   |   0   |            0             |
+c-------------------------------------------------
+Data   |   14 |     1 | Paleo_Depth_Map_14_2.590 |
+Data   |   15 |     1 | Paleo_Depth_Map_15_5.330 |
+Data   |   16 |     1 | Paleo_Depth_Map_16_13.82 |
+Data   |   17 |     1 | Paleo_Depth_Map_17_16    |
+Data   |   18 |     1 | Paleo_Depth_Map_18_20    |
+Data   |   19 |     1 | Paleo_Depth_Map_19_23.03 |
+Data   |   20 |     1 | Paleo_Depth_Map_20_28.10 |
+Data   |   21 |     1 | Paleo_Depth_Map_21_33.90 |
+Data   |   22 |     1 | Paleo_Depth_Map_22_56    |
+Data   |   23 |     1 | Paleo_Depth_Map_23_64    |
+Data   |   24 |     1 | Paleo_Depth_Map_24_66    |
+Data   |   25 |     1 | Paleo_Depth_Map_25_83.60 |
+Data   |   26 |     1 | Paleo_Depth_Map_26_90    |

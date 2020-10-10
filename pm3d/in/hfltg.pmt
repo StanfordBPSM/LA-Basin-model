@@ -1,0 +1,13 @@
+c
+c Heat Flow Trend Groups
+c
+Head   | ID  | Assigned |    Name     |
+Key    | ID  | Assigned |    Name     |
+Stop-----------------------------------
+Format | %3d |   %1d    |     %s      |
+Flag   |  0  |    0     |      0      |
+c--------------------------------------
+Data   |   2 |       -1 | TestHF      |
+Data   |   3 |       -1 | BaseCase_HF |
+Data   |   4 |       -1 | HF_Trend_4  |
+Data   |   5 |       -1 | HF_Trend_5  |

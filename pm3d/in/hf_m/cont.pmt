@@ -1,0 +1,50 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |           Name            |
+Key    |  ID  | Level |        NameInTree         |
+Stop-----------------------------------------------
+Format | %4d  |  %2d  |            %s             |
+Flag   |  0   |   0   |             0             |
+c--------------------------------------------------
+Data   |    1 |     1 | TestHF_Map_1_0            |
+Data   |    2 |     1 | TestHF_Map_2_30           |
+Data   |    3 |     1 | TestHF_Map_3_200          |
+Data   |    4 |     1 | BaseHF_Map_4_0            |
+Data   |    5 |     1 | BaseHF_Map_5_5            |
+Data   |    6 |     1 | BaseHF_Map_6_14           |
+Data   |    7 |     1 | BaseHF_Map_7_17           |
+Data   |    8 |     1 | BaseHF_Map_8_23           |
+Data   |    9 |     1 | BaseHF_Map_9_30           |
+Data   |   10 |     1 | BaseHF_Map_10_66          |
+Data   |   11 |     1 | BaseHF_Map_11_82          |
+Data   |   12 |     1 | BaseHF_Map_12_90          |
+Data   |   13 |     1 | BaseHF_Map_13_200         |
+Data   |   16 |     1 | SpatialHF_Map_1_0         |
+Data   |   25 |     1 | SpatialHF_Map_2_5         |
+Data   |   28 |     1 | SpatialHF_Map_1_0_01      |
+Data   |   32 |     1 | SpatialHF_Map_3_15v2      |
+Data   |   35 |     1 | SpatialHF_Map_3_15        |
+Data   |   38 |     1 | SpatialHF_Map_3_15v3      |
+Data   |   41 |     1 | SpatialHF_Map_3_15v4      |
+Data   |   45 |     1 | SpatialHF_Map_1_0v2       |
+Data   |   48 |     1 | SpatialHF_Map_2_5v2       |
+Data   |   51 |     1 | SpatialHF_Map_1_0v3       |
+Data   |   54 |     1 | SpatialHF_Map_2_5v3       |
+Data   |   55 |     1 | SpatialHF_Map_1_0v3_cal   |
+Data   |   56 |     1 | SpatialHF_Map_2_5v3_cal   |
+Data   |   57 |     1 | SpatialHF_Map_3_15v4_cal  |
+Data   |   58 |     1 | BaseHF_Map_9_30_cal       |
+Data   |   59 |     1 | BaseHF_Map_10_66_cal      |
+Data   |   60 |     1 | BaseHF_Map_11_82_cal      |
+Data   |   61 |     1 | BaseHF_Map_12_90_cal      |
+Data   |   62 |     1 | BaseHF_Map_13_200_cal     |
+Data   |   65 |     1 | BaseHF_Map_11_82_01       |
+Data   |    2 |     1 | HF Maps_16e/              |
+Data   |   71 |     2 | SpatialHF_Map_1_0v5       |
+Data   |   68 |     2 | SpatialHF_Map_2_5v5       |
+Data   |   74 |     2 | SpatialHF_Map_3_15v5      |
+Data   |   80 |     2 | BaseHF_Map_4_30v5         |
+Data   |   79 |     2 | BaseHF_Map_5_200v5        |
+Data   |   93 |     2 | SpatialHF_Map_3_15v5plus5 |
+Data   |   90 |     1 | Avg5_15HF                 |
